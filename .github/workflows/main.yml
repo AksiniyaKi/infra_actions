@@ -24,7 +24,7 @@ jobs:
       # Runs a single of commands using the runners shell
       - name: Run a one-line script
         run: eco Hello, world!
-      # Runs a set of commands using the runners shell
+      # Runs a set of commands using the runners shel
       - name: Run a multi-line script
         run:
           eco Add other actions to build,
